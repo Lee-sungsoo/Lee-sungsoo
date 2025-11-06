@@ -3,9 +3,3 @@
 <p align="center">
   <strong>🌱 Welcome to my GitHub profile. 🌱</strong>
 </p>
-
-<div align="right">
-
-  ![Visitor Count](https://komarev.com/ghpvc/?Lee-sungsoo=gjbae1212&color=blue&style=flat-square)
-
-</div>
