@@ -6,6 +6,6 @@
 
 <div align="right">
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F[본인_깃허브_ID])](https://hits.seeyoufarm.com)
+  ![Visitor Count](https://komarev.com/ghpvc/?Lee-sungsoo=gjbae1212&color=blue&style=flat-square)
 
 </div>
